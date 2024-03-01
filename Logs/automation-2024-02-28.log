@@ -1,0 +1,54 @@
+21:38:33.537 [main] INFO  Test_Cases.Finding_Hospitals - -------- Validating demo button --------
+21:38:33.695 [main] INFO  Test_Cases.Finding_Hospitals -  Validating demo button with incorrect details 
+21:38:34.349 [main] INFO  Test_Cases.Finding_Hospitals -  clearing the previous data 
+21:38:35.217 [main] INFO  Test_Cases.Finding_Hospitals -  Validating demo button with correct details 
+21:38:46.184 [main] INFO  Test_Cases.Finding_Hospitals -  Verifying Thank you message 
+15:22:46.844 [main] INFO  Test_Cases.Finding_Hospitals - --------Started--------
+15:22:57.690 [main] INFO  Test_Cases.Finding_Hospitals -  Searching City 
+15:23:03.187 [main] INFO  Test_Cases.Finding_Hospitals -  Searching dentists 
+15:23:03.563 [main] INFO  Test_Cases.Finding_Hospitals - --------Appling Fiters--------
+15:23:06.039 [main] INFO  Test_Cases.Finding_Hospitals -  Selecting 30+ Patient Stories 
+15:23:09.851 [main] INFO  Test_Cases.Finding_Hospitals -  Selectong 10+ years experience 
+15:23:12.971 [main] INFO  Test_Cases.Finding_Hospitals -  Selecting fee above 500 
+15:23:16.642 [main] INFO  Test_Cases.Finding_Hospitals -  Selecting Doctors those who available tomorrow 
+15:23:17.483 [main] INFO  Test_Cases.Finding_Hospitals - --------Sorting--------
+15:23:21.297 [main] INFO  Test_Cases.Finding_Hospitals -  Sorting High to low 
+15:23:46.339 [main] INFO  Test_Cases.Finding_Hospitals -  Getting top 5 Doctor details 
+15:23:46.599 [main] INFO  Test_Cases.Finding_Hospitals - -------- Navigating To Surgeries Page --------
+15:23:48.065 [main] INFO  Test_Cases.Finding_Hospitals -  Clicked on Surgeries button 
+15:23:48.727 [main] INFO  Test_Cases.Finding_Hospitals -  Scrolling down to list of surgeries 
+15:23:50.375 [main] INFO  Test_Cases.Finding_Hospitals -  Getting list of surgeries into a list 
+15:23:50.663 [main] INFO  Test_Cases.Finding_Hospitals -  Scrolling back to top of the page 
+15:23:51.069 [main] INFO  Test_Cases.Finding_Hospitals - -------- Navigating To Health and wellness Page --------
+15:24:01.469 [main] INFO  Test_Cases.Finding_Hospitals -  Navigated to Health and wellness Page 
+15:24:01.768 [main] INFO  Test_Cases.Finding_Hospitals - -------- Validating demo button --------
+15:24:01.889 [main] INFO  Test_Cases.Finding_Hospitals -  Scrolling down to Schedule demo button 
+15:24:02.254 [main] INFO  Test_Cases.Finding_Hospitals - -------- Validating demo button --------
+15:24:03.052 [main] INFO  Test_Cases.Finding_Hospitals -  Entering incorrect detials to validate demo button 
+15:24:03.413 [main] INFO  Test_Cases.Finding_Hospitals - -------- Validating demo button --------
+15:24:03.514 [main] INFO  Test_Cases.Finding_Hospitals -  Validating demo button with incorrect details 
+15:24:04.147 [main] INFO  Test_Cases.Finding_Hospitals -  clearing the previous data 
+15:24:05.315 [main] INFO  Test_Cases.Finding_Hospitals -  Validating demo button with correct details 
+15:24:12.905 [main] INFO  Test_Cases.Finding_Hospitals -  Verifying Thank you message 
+18:02:10.787 [main] INFO  Test_Cases.Finding_Hospitals - --------Started--------
+18:02:21.939 [main] INFO  Test_Cases.Finding_Hospitals -  Searching City 
+18:02:48.833 [main] INFO  Test_Cases.Finding_Hospitals -  Searching dentists 
+18:02:49.233 [main] INFO  Test_Cases.Finding_Hospitals - --------Appling Fiters--------
+18:02:51.915 [main] INFO  Test_Cases.Finding_Hospitals -  Selecting 30+ Patient Stories 
+18:03:50.806 [main] INFO  Test_Cases.Finding_Hospitals -  Selectong 10+ years experience 
+18:04:16.232 [main] INFO  Test_Cases.Finding_Hospitals -  Selecting fee above 500 
+18:04:42.027 [main] INFO  Test_Cases.Finding_Hospitals -  Selecting Doctors those who available tomorrow 
+18:04:44.515 [main] INFO  Test_Cases.Finding_Hospitals - --------Sorting--------
+18:04:48.949 [main] INFO  Test_Cases.Finding_Hospitals -  Sorting High to low 
+18:06:18.240 [main] INFO  Test_Cases.Finding_Hospitals -  Getting top 5 Doctor details 
+18:06:18.713 [main] INFO  Test_Cases.Finding_Hospitals - -------- Navigating To Surgeries Page --------
+18:06:20.885 [main] INFO  Test_Cases.Finding_Hospitals -  Clicked on Surgeries button 
+18:06:21.530 [main] INFO  Test_Cases.Finding_Hospitals -  Scrolling down to list of surgeries 
+18:06:24.159 [main] INFO  Test_Cases.Finding_Hospitals -  Getting list of surgeries into a list 
+18:06:24.525 [main] INFO  Test_Cases.Finding_Hospitals -  Scrolling back to top of the page 
+18:06:25.083 [main] INFO  Test_Cases.Finding_Hospitals - -------- Navigating To Health and wellness Page --------
+18:06:48.632 [main] INFO  Test_Cases.Finding_Hospitals -  Navigated to Health and wellness Page 
+18:06:49.066 [main] INFO  Test_Cases.Finding_Hospitals - -------- Validating demo button --------
+18:06:49.265 [main] INFO  Test_Cases.Finding_Hospitals -  Scrolling down to Schedule demo button 
+18:06:49.749 [main] INFO  Test_Cases.Finding_Hospitals - -------- Validating demo button --------
+18:06:50.996 [main] INFO  Test_Cases.Finding_Hospitals -  Entering incorrect detials to validate demo button 
