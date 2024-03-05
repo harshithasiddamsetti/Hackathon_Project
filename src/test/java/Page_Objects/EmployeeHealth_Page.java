@@ -65,6 +65,9 @@ public class EmployeeHealth_Page extends Constructor {
 	
 	public void validate_IncorrectDetalis() {
 		
+		WebDriverWait myWait = new WebDriverWait(driver, Duration.ofSeconds(10));
+		myWait.until(ExpectedConditions.visibilityOf(Name));
+		
 		Name.sendKeys("Harshi");
 		organizationName.sendKeys("CTS");
 		contactNumber.sendKeys("9876543210");

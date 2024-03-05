@@ -55,13 +55,13 @@ public class Surgeries_Page extends Constructor {
 	
 	public List<String> getSurgerynames(){
 		
+		Test_Base.addData("           ");
+		Test_Base.addData("Surgery Names");
+		Test_Base.addData("           ");
 		for(int i=0;i< surgeries.size();i++)
 		{
 			String surgery_Name = surgeries.get(i).getText();
 			System.out.println(surgery_Name);
-			Test_Base.addData("           ");
-			Test_Base.addData("Surgery Names");
-			Test_Base.addData("           ");
 			Test_Base.addData(surgery_Name);
 			Surgeries.add(surgery_Name);
 		}

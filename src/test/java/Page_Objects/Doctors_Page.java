@@ -116,7 +116,7 @@ public class Doctors_Page extends Constructor {
 		
 		for (int i=0; i<5; i++) {
 			JavascriptExecutor js= (JavascriptExecutor)driver;
-			js.executeScript("window.scrollBy(0,300)", "");
+			js.executeScript("window.scrollBy(0,275)", "");
 			Thread.sleep(2000);
 			
 			String Doctor_Name = DoctorName.get(i).getText();

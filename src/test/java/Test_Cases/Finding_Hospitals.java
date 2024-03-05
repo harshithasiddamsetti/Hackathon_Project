@@ -1,11 +1,11 @@
 package Test_Cases;
 
-import java.time.Duration;
+//import java.time.Duration;
 
-import org.apache.logging.log4j.LogManager;
-import org.apache.logging.log4j.Logger;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
+//import org.apache.logging.log4j.LogManager;
+//import org.apache.logging.log4j.Logger;
+//import org.openqa.selenium.WebDriver;
+//import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import org.testng.annotations.*;
 
@@ -26,8 +26,6 @@ public class Finding_Hospitals extends Test_Base {
 	EmployeeHealth_Page Ep;
 	Surgeries_Page Sp;
 	
-//	public Logger logger; 
-	
 //	@BeforeClass
 //	public void driverSetup() {
 //		
@@ -47,6 +45,7 @@ public class Finding_Hospitals extends Test_Base {
 		try {
 		Hp = new Home_Page(driver);
 		
+		Hp.clickFindDoctors();
 		boolean ans = Hp.Search_city();
 		Assert.assertEquals(ans, true);
 		logger.info(" Searching City ");

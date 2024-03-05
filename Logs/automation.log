@@ -1,5 +1,6 @@
-18:06:51.470 [main] INFO  Test_Cases.Finding_Hospitals - -------- Validating demo button --------
-18:06:51.677 [main] INFO  Test_Cases.Finding_Hospitals -  Validating demo button with incorrect details 
-18:06:52.725 [main] INFO  Test_Cases.Finding_Hospitals -  clearing the previous data 
-18:06:54.770 [main] INFO  Test_Cases.Finding_Hospitals -  Validating demo button with correct details 
-18:08:21.661 [main] ERROR Test_Cases.Finding_Hospitals - Test Failed
+18:00:25.568 [main] INFO  Test_Cases.Finding_Hospitals -  Entering incorrect detials to validate demo button 
+18:00:25.901 [main] INFO  Test_Cases.Finding_Hospitals - -------- Validating demo button --------
+18:00:26.011 [main] INFO  Test_Cases.Finding_Hospitals -  Validating demo button with incorrect details 
+18:00:26.604 [main] INFO  Test_Cases.Finding_Hospitals -  clearing the previous data 
+18:00:27.676 [main] INFO  Test_Cases.Finding_Hospitals -  Validating demo button with correct details 
+18:00:38.306 [main] INFO  Test_Cases.Finding_Hospitals -  Verifying Thank you message 

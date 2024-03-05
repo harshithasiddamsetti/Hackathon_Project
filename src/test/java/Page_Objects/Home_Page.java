@@ -16,10 +16,13 @@ public class Home_Page extends Constructor {
 		// TODO Auto-generated constructor stub
 	}
 	
-	@FindBy (xpath = "(//*[@class='c-omni-searchbox c-omni-searchbox--small'])[1]")
+	@FindBy (xpath = "(//*[@class='product-tab__title'])[1]")
+	WebElement findDoctorsBtn;
+	
+	@FindBy (xpath = "(//*[@class='c-omni-searchbox c-omni-searchbox--large'])[1]")
 	WebElement searchBtn_1;
 	
-	@FindBy (xpath = "(//*[@class='c-omni-searchbox c-omni-searchbox--small'])[2]")
+	@FindBy (xpath = "(//*[@class='c-omni-searchbox c-omni-searchbox--large'])[2]")
 	WebElement searchBtn_2;
 	
 	@FindBy (xpath = "(//*[@class='c-omni-suggestion-item__content__title'])[1]")
@@ -39,6 +42,11 @@ public class Home_Page extends Constructor {
 	
 	@FindBy (xpath = "(//*[@class='product-tab__title'])[5]")
 	WebElement surgeriesBtn;
+	
+	public void clickFindDoctors() {
+		WebDriverWait myWait = new WebDriverWait(driver,Duration.ofSeconds(20));
+		myWait.until(ExpectedConditions.elementToBeClickable(findDoctorsBtn)).click();
+	}
 	
 	public boolean Search_city() {
 		

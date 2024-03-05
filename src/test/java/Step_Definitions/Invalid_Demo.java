@@ -23,7 +23,6 @@ public class Invalid_Demo {
 		Sp = new Surgeries_Page(Base_Class.getDriver());
 		Sp.navigateToHealthPage();
 		path = Base_Class.screenshot(Base_Class.getDriver(), "health_and_wellness_page");
-	    Thread.sleep(6000);
 	}
 
 	@When("user enters incorrect details")
